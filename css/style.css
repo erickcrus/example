@@ -1,0 +1,16 @@
+body{
+    background-color: #d9d9d9;
+    margin: 0;
+    padding: 0;
+}
+
+.content span:first-child{
+    color: #222;
+    font-size: 22px;
+    margin: 0 20px;
+}
+
+.content span:last-child{
+    color: #00b9fc;
+    font-size: 60px;
+}
