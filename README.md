@@ -13,6 +13,6 @@ Em caso de dúvidas, você poderá utilizar a aba "Issues", e responderemos o ma
 
 2 - A criatividade também será um critério de avaliação;
 
-3 - Utilizar apenas jQuery e/ou javascript puro;
+3 - Utilizar somente jQuery e/ou javascript puro;
 
 4 - Não recomendamos o uso de quaisquer bibliotecas extarnas.
