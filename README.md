@@ -8,4 +8,8 @@ Um vídeo de amostra será enviado ao seu e-mail.
 
 Em caso de dúvidas, você poderá utilizar a aba "Issues", e responderemos o mais breve possível.
 
-Importante: você é livre para estilizar e configurar seu timer. A criatividade também será um critério de avaliação.
+# Importante:
+1 - Você é livre para estilizar e configurar seu timer;
+2 - A criatividade também será um critério de avaliação;
+3 - Utilizar apenas jQuery e/ou javascript puro;
+4 - Não recomendamos o uso de quaisquer bibliotecas extarnas.
